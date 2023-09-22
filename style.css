@@ -1,7 +1,8 @@
 .container {
     width: 100vh;
     height: 100vh;
-  
+    margin-left: 25%;
+    margin-right: 25%;
     background-color: #797978;
     padding-left: 30px;
   }
@@ -43,5 +44,8 @@
     padding-left: 15px;
     padding-top: 25px;
     
+  }
+  body{
+    background-color: #212121;
   }
   
